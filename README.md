@@ -51,5 +51,5 @@ We perform several steps to clean and prepare the dataset:
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bangla-text-preprocessing.git
+git clone https://github.com/mahshar-yahan/Multiclass-Book-Classification.git
 cd bangla-text-preprocessing
